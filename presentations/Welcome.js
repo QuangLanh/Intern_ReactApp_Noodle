@@ -9,6 +9,7 @@ import {
   SafeAreaView,
   ImageBackground,
 } from 'react-native';
+import Video from 'react-native-video';
 
 const welcome = ({navigation}) => {
   return (
